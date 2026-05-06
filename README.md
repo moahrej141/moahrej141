@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm <strong>Soulaiman Haddach</strong>
+# 👋 Hey, I'm <strong>Soulaiman</strong>
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
